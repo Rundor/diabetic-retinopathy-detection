@@ -1,7 +1,7 @@
 # Diabetic Retinopathy Detection (Preprocessing Module)
 
 ## Status
-🚧 Work in Progress
+Work in Progress
 
 ## Overview
 This repository contains the preprocessing pipeline for a diabetic retinopathy detection system.
